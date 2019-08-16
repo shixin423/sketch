@@ -1,2 +1,12 @@
-【1】
-《更新内容》
+[
+{
+"java":"1.0",
+"library":"1.0",
+"javacontent":"测试测试",
+"librarycontent":"测试测试",
+"javaurl":"更新链接",
+"libraryurl":"更新链接",
+"gg":"true",
+"ggcontent":"公告内容"
+}
+]
